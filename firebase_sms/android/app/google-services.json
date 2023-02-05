@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257721811708",
+    "project_id": "fir-login-8b2dc",
+    "storage_bucket": "fir-login-8b2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257721811708:android:8f167f082a8f81a5a84d79",
+        "android_client_info": {
+          "package_name": "com.example.firebase_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257721811708-q253q5sk3akovv1u7uj5m9tfp7lfkghe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQnLDORI1PwNb81Uvr5aB41KBSCCnWvlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257721811708-q253q5sk3akovv1u7uj5m9tfp7lfkghe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
