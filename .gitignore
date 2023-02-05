@@ -1,2 +1,11 @@
 /NewHugin
 /TIOT
+
+# voca
+/voca/lib/firebase
+/voca/pubspec.lock
+/voca/analysis_options.yaml
+/voca/.metadata
+/voca/.gitignore
+/voca/android
+/voca/windows
